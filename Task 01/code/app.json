@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "TodoList",
+    "slug": "todo-list-3rjigqi9hgcferajy-xsw",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.omar_hussein.todolist3rjigqi9hgcferajyxsw"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b8ad9b2d-3a4d-4074-ab7d-fc1034d45ca5"
+      }
+    },
+    "owner": "omar_hussein"
+  }
+}
